@@ -42,3 +42,7 @@ function showTask(){
 document.addEventListener("DOMContentLoaded", function() {
     showTask();
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+    showTask();
+});
